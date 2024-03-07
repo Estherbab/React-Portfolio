@@ -1,5 +1,3 @@
-import React from 'react';
-
 // Creating the components for Home page
 function Home() {
   return (
