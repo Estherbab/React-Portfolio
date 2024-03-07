@@ -1,5 +1,8 @@
 // Creating the components for project gallery
+import projects from "../utils/projects.json";
+import Project from "../components/Project";
 function ProjectGallery() {
+  console.log(projects);
   return (
     <div>
       <h1>Project Gallery</h1>
@@ -16,6 +19,20 @@ function ProjectGallery() {
         conubia nostra, per inceptos himenaeos. Etiam ornare rutrum felis at
         rhoncus. Etiam vel condimentum magna, quis tempor nulla.
       </p>
+      <div className="row">
+        {projects.map((project, index) => (
+          <div className="col-md-4 col-sm-12 mb-4" key={index}>
+            <Project
+              title={project.title}
+              description={project.description}
+              languages={project.languages}
+              image={project.image}
+              repo={project.repo}
+              deployed={project.deployed}
+            />
+          </div>
+        ))}
+      </div>
     </div>
   );
 }
