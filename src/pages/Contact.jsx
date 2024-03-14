@@ -24,6 +24,15 @@ function Contact() {
   <label for="exampleFormControlTextarea1" class="form-label">Example textarea</label>
   <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
 </div> */}
+
+<section class="mb-4">
+        <a href="https://www.instagram.com/estherbogere/" class="fa fa-instagram btn btn-warning btn-floating"></a>
+        <a href="https://twitter.com/EstherBogere" class="fa fa-twitter btn btn-warning btn-floating"></a>
+        <a href="https://www.youtube.com/@TheBogeres" class="fa fa-youtube btn btn-warning btn-floating"></a>
+        <a href="https://www.pinterest.co.uk/ebogere/" class="fa fa-pinterest btn btn-warning btn-floating"></a>
+        {/* <FontAwesomeIcon icon="fa-brands fa-linkedin" /> */}
+        {/* <FontAwesomeIcon icon="fa-brands fa-github" /> */}
+        </section>
     </div>
   );
 }
