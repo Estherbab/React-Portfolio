@@ -16,23 +16,58 @@ function Contact() {
         conubia nostra, per inceptos himenaeos. Etiam ornare rutrum felis at
         rhoncus. Etiam vel condimentum magna, quis tempor nulla.
       </p>
-      {/* <div class="mb-3">
-  <label for="exampleFormControlInput1" class="form-label">Email address</label>
-  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
-</div>
-<div class="mb-3">
-  <label for="exampleFormControlTextarea1" class="form-label">Example textarea</label>
-  <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-</div> */}
+      <div className="card">
+        <div className="card-body">
+          <form>
+            <div className="mb-3">
+              <label for="exampleFormControlInput1" className="form-label">
+                Email address
+              </label>
+              <input
+                type="email"
+                className="form-control"
+                id="exampleFormControlInput1"
+                placeholder="name@example.com"
+              />
+            </div>
+            <div className="mb-3">
+              <label for="exampleFormControlTextarea1" className="form-label">
+                Example textarea
+              </label>
+              <textarea
+                className="form-control"
+                id="exampleFormControlTextarea1"
+                rows="3"
+              ></textarea>
+            </div>
+            <button type="submit" className="btn btn-primary">
+              Submit
+            </button>
+          </form>
+        </div>
+      </div>
 
-<section class="mb-4">
-        <a href="https://www.instagram.com/estherbogere/" class="fa fa-instagram btn btn-warning btn-floating"></a>
-        <a href="https://twitter.com/EstherBogere" class="fa fa-twitter btn btn-warning btn-floating"></a>
-        <a href="https://www.youtube.com/@TheBogeres" class="fa fa-youtube btn btn-warning btn-floating"></a>
-        <a href="https://www.pinterest.co.uk/ebogere/" class="fa fa-pinterest btn btn-warning btn-floating"></a>
+      <section className="mb-4 mt-4 row">
+        <a href="https://www.instagram.com/estherbogere/" className="col-1">
+          <i className="fa-brands fa-instagram"></i>
+        </a>
+        <a
+          href="https://twitter.com/EstherBogere"className="col-1"
+      
+        ></a>
+        <a
+          href="https://www.youtube.com/@TheBogeres"className="col-1"
+      
+        ></a>
+        <a
+          href="https://www.pinterest.co.uk/ebogere/"className="col-1"
+       
+        ></a>
         {/* <FontAwesomeIcon icon="fa-brands fa-linkedin" /> */}
-        {/* <FontAwesomeIcon icon="fa-brands fa-github" /> */}
-        </section>
+        <a href="http://" target="_blank" rel="noopener noreferrer" className="col-1">
+          <i className="fa-brands fa-github"></i>
+        </a>
+      </section>
     </div>
   );
 }

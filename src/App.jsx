@@ -6,13 +6,16 @@ import Footer from "./components/Footer"
 import Contact from "./pages/Contact"
 import Home from "./pages/Home"
 import ProjectsGallery from "./pages/ProjectsGallery"
+import Hero from './components/hero';
 
 function App() {
   return (
     <Router>
     <Header />
+    <Hero/>
     {/* Wrap Route elements in a Routes component */}
     <main className='container'>
+
     <Routes>
       {/* Define routes using the Route component to render different page components at different paths */}
       {/* Define a default route that will render the Home component */}
