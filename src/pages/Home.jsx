@@ -3,18 +3,17 @@ function Home() {
   return (
     <div>
       <h1>Home Page</h1>
+      <div class="container">
+                    <img class="img-fluid w-100 height-100vh" src="./assets/images/profilepic.png" alt="" />
+                </div>
+      <div>       
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
-        velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
-        ac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Cras
-        non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdiet
-        ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras
-        rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in
-        tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat
-        porttitor. Vestibulum molestie hendrerit massa non consequat. Vestibulum
-        vitae lorem tortor. In elementum ultricies tempus. Interdum et malesuada
-        fames ac ante ipsum primis in faucibus.
+      I am a highly motivated Business Management Graduate with significant customer service and administerial experience. I am honest, patient, approachable and flexible. With high levels of organisation, I work well under pressure and thrive within a team.  
+      I am a fast learner with excellent IT skills who is motivated by challenges. I have experience in stock control, training and handling staff, administration and health and safety. I also fulfil an active voluntary role in my local church.
+      Currently I have been attending a coding bootcamp in frontend web development learning coding languages such as CSS, HTML, JAVASCRIPT, NODEJS and REACT with EDX Skills for life.
+
       </p>
+      </div>   
     </div>
   );
 }
