@@ -1,6 +1,10 @@
 i{
     font-size: 36px;
-    color: goldenrod;
+    color: blue;
+    
+}
+.icons:hover{
+    color: black;
 }
 .hero{
     height: 150px;
