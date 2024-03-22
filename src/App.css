@@ -9,7 +9,7 @@ i{
 .hero{
     height: 150px;
     /* background-color: gold; */
-    background-image: url('../public/assets/images/frontend\ developer\ Esther\ babirye\ wired.png');
+    background-image: url('/assets/images/frontenddeveloper.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
