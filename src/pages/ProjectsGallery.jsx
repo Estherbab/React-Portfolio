@@ -5,7 +5,7 @@ function ProjectGallery() {
   console.log(projects);
   return (
     <div>
-      <h1>My Project Gallery</h1>
+      <div className="mt-5"><h1>My Project Gallery</h1></div>
       <p className="mt-3 mb-5">
       Welcome to my project gallery throught the last four months i have been enrolled in a
       Front-end web development bootcamp by EDX. I have been learning several languages such as

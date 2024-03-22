@@ -2,7 +2,7 @@
 function Home() {
   return (
     <div>
-      <h1>Home Page</h1>
+      <div className="mt-5"><h1>About Me</h1></div>
       <div className="row mt-3">
         <div class="col-sm-12 col-md-4">
           <img class="img-fluid" src="./assets/images/profilepic.jpeg" alt="" />

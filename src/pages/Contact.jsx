@@ -3,8 +3,8 @@ function Contact() {
   return (
     <div className="container">
       <div className="row justify-content-center">
-      <h1>Contact Me</h1>
-      <div className="row mt-3">
+      <div className="mt-5"><h1>Contact Me</h1></div>
+      <div className="row">
         <div className="col-sm-12 col-md-4">
           <p className="mt-3">
             For further enquiries feel free to contact me through my email
