@@ -8,9 +8,7 @@ For this challenge, you will utilize what you have learned in Module 13: React t
 Now that you've worked with React and have multiple projects to share, it's time to develop the initial scaffolding for your first portfolio site as well as create and/or update other materials so that you can showcase your skills to potential employers. Creating a portfolio using React will help set you apart from other developers whose portfolios do not use some of the latest technologies.
 
 
-Live link to deployed application [link to deployed application]().
-
-![the following image shows the](src/Images/aboutme.png)
+Live link to deployed application [link to deployed application](https://estherbabirye.netlify.app/).
 
 ---
 
@@ -18,13 +16,9 @@ Live link to deployed application [link to deployed application]().
 ## Table of Contents 
 
 
-
-* [Aboutme](#aboutme)
-* [ProjectGallery](#manager)
-* [Menu](#menu)
-* [Engineer](#engineer)
-* [Intern](#intern)
-* [Generatehtml](#generatehtml)
+* [About](#about)
+* [ProjectGallery](#projectgallery)
+* [Contact](#contact)
 * [Usage](#usage)
 * [Technologies](#technologies)
 * [Credits](#credits)
@@ -33,23 +27,11 @@ Live link to deployed application [link to deployed application]().
 
 ---
 
-## About Me
+## About
+In this section you can find a brief summary about me and my job experience
 
 About Me
-![image](src/images/aboutme.png)
-
-
-
----
-
-## Manager
-The screenshot below shows the team manager array of questions that will be displayed once the application starts, the second screenshot shows the inquirer.prompt that will prompt the questions to be displayed and answered in the terminal.
-
-![the following image shows the webpages functionality](starter/assets/images/manager%20questions%20array.png)
-![the following image shows the webpages functionality](starter/assets/images/manager%20inquirer%20prompt.png)
-
-
-
+![image](https://github.com/Estherbab/React-Portfolio/blob/main/src/images/aboutme.png?raw=true)
 
 
 
@@ -57,43 +39,24 @@ The screenshot below shows the team manager array of questions that will be disp
 
 ---
 
-## Menu
+## ProjectGallery
 
-The screenshots below shows the menu questions that will appear as soon as the user finishes answering the manager questions. The menu questions are displayed in list form with the user selecting either engineer, intern or finish building the team. The second screenshot shows the function to prompt and display each of the menu options which is written using an if statement.
+In this section you can find six projects i have worked on during the EDX skills for life bootcamp. It includes links to my github repository and the live application for each project
 
-![the following image shows the webpages functionality](starter/assets/images/menu%20array.png)
-![the following image shows the webpages functionality](starter/assets/images/display%20menu.png)
+![the following image shows the webpages functionality](https://github.com/Estherbab/React-Portfolio/blob/main/src/images/theprojectgallery.png?raw=true)
 
 
----
 
-## Engineer
 
-The screenshot below shows the engineer array of questions that will be displayed when the user selects engineer from the menu options. The display engineer function is to display all the questions in the array and the inquirer.prompt is to prompt the user to answer each question in the terminal.
-
-![the following image shows the webpages functionality](starter/assets/images/engineer%20array.png)
-![the following image shows the webpages functionality](starter/assets/images/engineer%20prompt.png)
 
 
 ---
 
-## Intern
+## Contact
 
-The screenshot below shows the intern array questions that will be displayed when the user selects intern from the display menu options. The intern array questions will be displayed and the inquirer.prompt will prompt the user to answer the questions in the terminal
+In this section you can connect with me via my contact links, and also send me an email via contact form
 
-![the following image shows the webpages functionality](starter/assets/images/intern%20array.png)
-![the following image shows the webpages functionality](starter/assets/images/intern%20prompt.png)
-
-
----
-
-## GenerateHTML
-
-This screenshot shows the HTML template generated after the user fills in all the questions for manager, engineer and intern and finishes building the team. The second screenshot shows the preview of the HTML generated team when viewed on a live server.
-
-
-![HTML generated questions](starter/assets/images/html%20generated%20questions.png)
-![Team Profile Screenshot](starter/assets/images/Team%20profile%20generator%20final.png)
+![the following image shows the webpages functionality](https://github.com/Estherbab/React-Portfolio/blob/main/src/images/contactme.png?raw=true)
 
 
 
@@ -102,26 +65,25 @@ This screenshot shows the HTML template generated after the user fills in all th
 ---
 ## Usage
 * run `npm i` in terminal to install all the dependencies needed
-* `npm run test` to run the tests and see if they all pass
-* `node index.js` to start the questions in the terminal
-
-
+* `npm run dev` to run the application and see if the code works
 
 
 
 ## Technologies
 * Bootstrap
-* Inquirer
-* Javascript
-* Jest
-* Node Js
+* React
+* Router
+* Jquery
+* react-router-dom
+* react-dom
+* axios
 
 
 
 ## Credits
 
 * Esther Babirye
-* TA Kayvon
+* Bobbi Tarkany
 
 
 
