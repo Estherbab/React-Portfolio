@@ -46,7 +46,6 @@ In this section you can find six projects i have worked on during the EDX skills
 
 
 
-
 ---
 
 ## Contact
