@@ -5,7 +5,7 @@ function ProjectGallery() {
   console.log(projects);
   return (
     <div>
-      <h1>Project Gallery</h1>
+      <h1>My Project Gallery</h1>
       <p>
         Integer cursus bibendum sem non pretium. Vestibulum in aliquet sem, quis
         molestie urna. Aliquam semper ultrices varius. Aliquam faucibus sit amet
