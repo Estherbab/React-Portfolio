@@ -1,11 +1,9 @@
 # React-Portfolio
 
 ## Description
-Creating my portfolio using react
+Creating my portfolio using React 
 
-For this challenge, you will utilize what you have learned in Module 13: React to develop the initial scaffolding of your portfolio sites.
-
-Now that you've worked with React and have multiple projects to share, it's time to develop the initial scaffolding for your first portfolio site as well as create and/or update other materials so that you can showcase your skills to potential employers. Creating a portfolio using React will help set you apart from other developers whose portfolios do not use some of the latest technologies.
+For this challenge, I will be utilising what i learned in Module 13: React to develop the initial scaffolding of my portfolio site.
 
 
 Live link to deployed application [link to deployed application](https://estherbabirye.netlify.app/).
@@ -28,9 +26,8 @@ Live link to deployed application [link to deployed application](https://estherb
 ---
 
 ## About
-In this section you can find a brief summary about me and my job experience
+In this section you can find a brief summary about me and my job experience 
 
-About Me
 ![image](https://github.com/Estherbab/React-Portfolio/blob/main/src/images/aboutme.png?raw=true)
 
 
