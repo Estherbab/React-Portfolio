@@ -1,7 +1,8 @@
 // Creating the components for Contact page
 function Contact() {
   return (
-    <div>
+    <div className="container">
+      <div className="row justify-content-center">
       <h1>Contact Me</h1>
       <div className="row mt-3">
         <div className="col-sm-12 col-md-4">
@@ -70,19 +71,22 @@ function Contact() {
         <a href="https://www.linkedin.com/in/esther-babirye/" className="col-1">
           <i class="fa-brands fa-linkedin icons"></i>
         </a>
-        {/* </div> */}
 
 
         <a href="https://github.com/Estherbab"target="_blank" rel="noopener noreferrer" className="col-1">
           <i className="fa-brands fa-github icons"></i>
           </a>
           </div>
-          </section>
+          
 
           <a href="https://docs.google.com/document/d/1_s5iXSFb-SnekncKcQ5FTgUCXrDdpkq1/edit?usp=sharing&ouid=111200502984599982938&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">
           Link to my latest CV 2024
           </a>
+          </section>
+
+         
    
+    </div>
     </div>
   );
 }

@@ -8,7 +8,13 @@ i{
 }
 .hero{
     height: 150px;
-    background-color: gold;
+    /* background-color: gold; */
+    background-image: url('../public/assets/images/frontend\ developer\ Esther\ babirye\ wired.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
 }
 .nav-icon{
     font-size: 26px;
@@ -16,4 +22,11 @@ i{
 }
 .img-height{
     height: 275px;
+}
+h3 {
+  color: aliceblue;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h3:hover{
+    color: whitesmoke;
 }
