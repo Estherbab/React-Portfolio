@@ -8,28 +8,12 @@
         "deployed": "https://estherbab.github.io/Bootstrap-Portfolio/"
     },
     {
-        "title": "Java-Me Code Quiz",
-        "description": "",
-        "languages": "HTML, CSS",
-        "image": "./assets/images/javame.png",
-        "repo": "https://github.com/Estherbab/Java-Me",
-        "deployed": "https://estherbab.github.io/Java-Me/"
-    },
-    {
         "title": "Weather Casting Panel",
         "description": "",
         "languages": "HTML, CSS",
         "image": "./assets/images/weather.png",
         "repo": "https://github.com/Estherbab/The-Weathercasting-Panel",
         "deployed": "https://estherbab.github.io/The-Weathercasting-Panel/"
-    },
-    {
-        "title": "Job Search Application - Project 1",
-        "description": "",
-        "languages": "HTML, CSS, JAVASCRIPT",
-        "image": "./assets/images/ladder-screen.png",
-        "repo": "https://github.com/timeades/Job-Search-Application",
-        "deployed": "https://timeades.github.io/Job-Search-Application/"
     },
     {
         "title": "Team Profile Generator",
@@ -39,6 +23,23 @@
         "repo": "https://github.com/Estherbab/Team-Profile-Generator",
         "deployed": ""
     },
+    {
+        "title": "Java-Me Code Quiz",
+        "description": "",
+        "languages": "HTML, CSS",
+        "image": "./assets/images/javame.png",
+        "repo": "https://github.com/Estherbab/Java-Me",
+        "deployed": "https://estherbab.github.io/Java-Me/"
+    },
+    {
+        "title": "Job Search Application - Project 1",
+        "description": "",
+        "languages": "HTML, CSS, JAVASCRIPT",
+        "image": "./assets/images/ladder-screen.png",
+        "repo": "https://github.com/timeades/Job-Search-Application",
+        "deployed": "https://timeades.github.io/Job-Search-Application/"
+    },
+
     {
         "title": "Weather Casting Panel",
         "description": "",

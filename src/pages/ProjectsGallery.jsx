@@ -6,18 +6,14 @@ function ProjectGallery() {
   return (
     <div>
       <h1>My Project Gallery</h1>
-      <p>
-        Integer cursus bibendum sem non pretium. Vestibulum in aliquet sem, quis
-        molestie urna. Aliquam semper ultrices varius. Aliquam faucibus sit amet
-        magna a ultrices. Aenean pellentesque placerat lacus imperdiet
-        efficitur. In felis nisl, luctus non ante euismod, tincidunt bibendum
-        mi. In a molestie nisl, eu sodales diam. Nam tincidunt lacus quis magna
-        posuere, eget tristique dui dapibus. Maecenas fermentum elementum
-        faucibus. Quisque nec metus vestibulum, egestas massa eu, sollicitudin
-        ipsum. Nulla facilisi. Sed ut erat ligula. Nam tincidunt nunc in nibh
-        dictum ullamcorper. Class aptent taciti sociosqu ad litora torquent per
-        conubia nostra, per inceptos himenaeos. Etiam ornare rutrum felis at
-        rhoncus. Etiam vel condimentum magna, quis tempor nulla.
+      <p className="mt-3 mb-5">
+      Welcome to my project gallery throught the last four months i have been enrolled in a
+      Front-end web development bootcamp by EDX. I have been learning several languages such as
+      HTML, CSS, JAVASCRIPT, JQUERY, NODE.JS and REACT and i have used all these skills learnt from
+      the bootcamp classes to creat different projects. Below are some of the projects that I have 
+      created with the skills that I have learnt through out this period. Please feel free to  check
+      them out each card link takes you directly to the application url and the Github repository
+      for each of the projects.
       </p>
       <div className="row">
         {projects.map((project, index) => (
