@@ -10,7 +10,7 @@ Now that you've worked with React and have multiple projects to share, it's time
 
 Live link to deployed application [link to deployed application]().
 
-![the following image shows the webpages functionality](starter/assets/images/Team%20profile%20generator%20final.png)
+![the following image shows the](src/Images/aboutme.png)
 
 ---
 
@@ -19,8 +19,8 @@ Live link to deployed application [link to deployed application]().
 
 
 
-* [Classes](#classes)
-* [Manager](#manager)
+* [Aboutme](#aboutme)
+* [ProjectGallery](#manager)
 * [Menu](#menu)
 * [Engineer](#engineer)
 * [Intern](#intern)
@@ -33,17 +33,10 @@ Live link to deployed application [link to deployed application]().
 
 ---
 
-## Classes
-The screenshots below shows the Employee class which is the parent and the children classes(manager, engineer and intern). The manager, engineer, and intern classes will inherit all the behaviours that have been built into the parent class(Employee). The screenshots also show the code that is written to export the Manager, Engineer and Intern Classes.
+## About Me
 
-Employee Class (Parent)
-![the following image shows the webpages functionality](starter/assets/images/employee%20class.png)
-Engineer Class (Child)
-![the following image shows the webpages functionality](starter/assets/images/engineer%20class.png)
-Manager Class (Child)
-![the following image shows the webpages functionality](starter/assets/images/manager%20class.png)
-Intern Class (Child)
-![the following image shows the webpages functionality](starter/assets/images/intern%20class.png)
+About Me
+![image](src/images/aboutme.png)
 
 
 
