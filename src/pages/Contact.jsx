@@ -45,7 +45,7 @@ function Contact() {
                     rows="3"
                   ></textarea>
                 </div>
-                <button type="submit" className="btn btn-primary">
+                <button type="submit" className="btn">
                   Submit
                 </button>
               </form>
@@ -79,7 +79,7 @@ function Contact() {
           </div>
           
 
-          <a href="https://docs.google.com/document/d/1_s5iXSFb-SnekncKcQ5FTgUCXrDdpkq1/edit?usp=sharing&ouid=111200502984599982938&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">
+          <a className="icons" href="https://docs.google.com/document/d/1_s5iXSFb-SnekncKcQ5FTgUCXrDdpkq1/edit?usp=sharing&ouid=111200502984599982938&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">
           Link to my latest CV 2024
           </a>
           </section>

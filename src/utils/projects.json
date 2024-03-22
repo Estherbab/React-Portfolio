@@ -1,7 +1,7 @@
 [
     {
         "title": "Bootstrap Portfolio",
-        "description": "",
+        "description": "This portfolio showcases all the skills I have learnt so far using the bootstrap css framework to build my portfloio.",
         "languages": "HTML, CSS",
         "image": "./assets/images/bootstrapportfolio.png",
         "repo": "https://github.com/Estherbab/Bootstrap-Portfolio",
@@ -9,31 +9,31 @@
     },
     {
         "title": "Weather Casting Panel",
-        "description": "",
-        "languages": "HTML, CSS",
+        "description": "In this challenge I will be creating a weather dashboard that will feature and retrieve weather data for different cities. I will be using the OpenWeatherMAP API to retrieve geographical coordinates for each city, this will help me to retrieve weather data for each of the cities, displaying the name, date, weather icon, temperature, wind-speed, and humidity, for the current day as well as the forecast for the next 5 days for that particular city.",
+        "languages": "HTML, CSS, JAVASCRIPT",
         "image": "./assets/images/weather.png",
         "repo": "https://github.com/Estherbab/The-Weathercasting-Panel",
         "deployed": "https://estherbab.github.io/The-Weathercasting-Panel/"
     },
     {
         "title": "Team Profile Generator",
-        "description": "",
-        "languages": "HTML, CSS",
+        "description": "In this challenge I will be creating a team profile generator by using the starter code given to convert it into a working Node.js command-line application. The application will start off by taking in information about employees in a software engineering team(Managers, Engineers and Interns) then will generate a HTML webpage that displays all the summaries for each employee.",
+        "languages": "HTML, CSS, JAVASCRIPT",
         "image": "./assets/images/teamprofile.png",
         "repo": "https://github.com/Estherbab/Team-Profile-Generator",
-        "deployed": ""
+        "deployed": "https://estherbab.github.io/Team-Profile-Generator/"
     },
     {
         "title": "Java-Me Code Quiz",
-        "description": "",
-        "languages": "HTML, CSS",
+        "description": "How well do I know Javascript Fundamentals? Well i will be creating a timed quiz that tests my Javascript fundamentals and stores my high scores which will help me gauge my progress in comparison to my peers. In this challenge my code quiz will be able to navigate through the start button onto the questions page, that will contain multiple choice Javascript questions. When the right or wrong answer is clicked an alert shows on the page confirming if you right or wrong as well as a corresponding sound is played to reflect if you got the question right or wrong. The marks are calculated by how fast you can answer the questions with the time given. And the quickest time becomes the highest scoring student.",
+        "languages": "HTML, CSS, JAVASCRIPT",
         "image": "./assets/images/javame.png",
         "repo": "https://github.com/Estherbab/Java-Me",
         "deployed": "https://estherbab.github.io/Java-Me/"
     },
     {
         "title": "Job Search Application - Project 1",
-        "description": "",
+        "description": "A Job Search app that returns a list of 10 relevant job listings and an accompanying video of interview questions for that job title, according to the users 'Job Title' and 'Location' input. The location field is optional. Users can save their search input, as well as individual job listing cards, which will populate when they next return to the website.",
         "languages": "HTML, CSS, JAVASCRIPT",
         "image": "./assets/images/ladder-screen.png",
         "repo": "https://github.com/timeades/Job-Search-Application",
@@ -41,11 +41,11 @@
     },
 
     {
-        "title": "Weather Casting Panel",
-        "description": "",
+        "title": "Webpage Inscription",
+        "description": "This challenge is an on-the-job ticket challenege with starter code that I have modified(refractored). The main thing I will be doing is improving the webpage to make sure it is user friendly and accessible for people with disabilities, which also improves the websites search engine optimization.",
         "languages": "HTML, CSS",
-        "image": "./assets/images/profilegen.png",
-        "repo": "https://github.com/Estherbab/The-Weathercasting-Panel",
-        "deployed": "https://estherbab.github.io/The-Weathercasting-Panel/"
+        "image": "./assets/images/webpageinscription.png",
+        "repo": "https://github.com/Estherbab/Webpage-Inscription",
+        "deployed": "https://estherbab.github.io/Webpage-Inscription/"
     }
 ]
