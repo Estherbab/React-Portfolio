@@ -43,7 +43,7 @@
     },
 
     {
-        "title": "trivia-twist - 'Mind-Twisting Trivia!'- Project 2",
+        "title": "Trivia-Twist - 'Mind-Twisting Trivia!'- Project 2",
         "description": "We built a single page React application for a Trivia Quiz as our group final project for the edX Front-End Web Development course. The quiz offers users a fun and interactive experience, with thoughtfully selected questions from different categories and difficulty levels. The app also features animations and sound effects to make it more exciting. After finishing the quiz, users can enter their name to see how they rank on the leaderboard, making it competitive and engaging.",
         "languages": "HTML, CSS, JAVASCRIPT, REACT",
         "image": "./assets/images/Wireframe02.png",
