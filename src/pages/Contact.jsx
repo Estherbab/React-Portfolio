@@ -79,7 +79,7 @@ function Contact() {
           </div>
           
 
-          <a className="icons" href="https://docs.google.com/document/d/1_s5iXSFb-SnekncKcQ5FTgUCXrDdpkq1/edit?usp=sharing&ouid=111200502984599982938&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">
+          <a className="icons" href="https://docs.google.com/document/d/1-CgoQuRUD3p0bwubb-AF3MKTeXX1KgH4HbxesZyXEYE/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
           Link to my latest CV 2024
           </a>
           </section>
